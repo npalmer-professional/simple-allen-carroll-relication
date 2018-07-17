@@ -1,3 +1,3 @@
-# simple-allen-carroll-relication
+# simple Allen Carroll Replication
 
-Simple replication of [Allen and Carroll (2001)](http://www.econ2.jhu.edu/people/ccarroll/IndivLearningAboutC.pdf)
+This repository contains minimal code that can be used to replicate [Allen and Carroll (2001)](http://www.econ2.jhu.edu/people/ccarroll/IndivLearningAboutC.pdf). 
