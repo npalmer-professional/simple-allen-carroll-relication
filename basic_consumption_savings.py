@@ -11,7 +11,6 @@ import pickle
 import numpy as np
 from scipy import stats
 from copy import deepcopy
-import matplotlib.pyplot as plt
 from scipy.optimize import fminbound
 from scipy.stats.mstats import mquantiles
 from scipy.interpolate import InterpolatedUnivariateSpline
